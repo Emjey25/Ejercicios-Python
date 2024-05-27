@@ -1,0 +1,1 @@
+bdPalabras = ["computador","tablet","celular","moto","banano"]
